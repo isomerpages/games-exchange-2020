@@ -18,16 +18,16 @@ hero-banner: /images/hero-banner.png
 #Call to Action Button
 button:
   - text: Learn More
-    url: /who-we-are/
+    url: /about-gamesxchange/
     
 key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
+  - title: GX2018 Photo Gallery
+    description: Relive the moments of GX2018!
     url: https://google.com
     external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
+  - title: GX2018 Videos
+    description: Watch interviews with GX2018 presenters and participants!
+    url: https://youtube.com
     external: true
   - title: Page A
     description: Page A is important too
