@@ -10,7 +10,7 @@ locations:
   # HQ Address [REQUIRED]
   - title: Venue Partner: Lifelong Learning Institute
     address: 11 Eunos Rd 8<br>Singapore 40860
-    find-directions: https://www.google.com.sg/maps/place/Lifelong+Learning+Institute/@1.3197616,103.8901252,17z/data=!3m1!4b1!4m5!3m4!1s0x31da18188d9cbf0f:0x366088767c724265!8m2!3d1.3197616!4d103.8923139
+    find-directions: TEST
   # Operating Hours [OPTIONAL]
   #  operating-hours:
   #   - days: Mon - Thu
