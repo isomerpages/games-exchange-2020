@@ -11,25 +11,25 @@ favicon: /images/favicon-isomer.ico
 agency-logo: /images/Civil_Service_College_Singapore_logo.png
 
 # Hero Banner
-hero-title: gamesXchange ABC
-hero-subtitle: Promoting the use of Games, Gamification and Simulations within the public sector
+hero-title: gamesXchange
+hero-subtitle: Promoting the use of Games, Simulations and Gamification within the public sector
 hero-banner: /images/hero-banner.png
 
 #Call to Action Button
 button:
   - text: Learn More
-    url: /about-gamesxchange/
+    url: /about/01-what-is/
     
 key-highlights:
   - title: GX2018 Photo Gallery
     description: Relive the moments of GX2018!
-    url: https://google.com
+    url: https://photos.app.goo.gl/Rgc5wcmtKzpkWraR6
     external: true
   - title: GX2018 Videos
     description: Watch interviews with GX2018 presenters and participants!
-    url: https://youtube.com
+    url: https://www.youtube.com/playlist?list=PLDiAIbnRLMPMg2cckbmzTEzTK8sX8pviG&disable_polymer=true
     external: true
   - title: Call For Speakers
     description: Who would you like to see at GX2020?
-    url: /page-A/
+    url: /call-for-speakers
 
