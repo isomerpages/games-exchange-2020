@@ -5,17 +5,17 @@
 ##################################
 
 - title: About
-  url: /about/about-gamesxchange/
+  url: /about/01-about-gamesxchange/
   sub-links:
   - title: About gamesXchange
-    url: /about/about-gamesxchange/
-  - title: Location
-    url: /about/location/
+    url: /about/01-about-gamesxchange/
   - title: Why Attend
-    url: /about/why-attend/
+    url: /about/02-why-attend/
   - title: Who We Are
-    url: /about/who-we-are/
-  
+    url: /about/03-who-we-are/
+  - title: Location
+    url: /about/04-location/
+    
 - title: Call for Speakers
   url: /call-for-speakers/
 - title: Conference
