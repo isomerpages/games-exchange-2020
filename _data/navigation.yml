@@ -15,8 +15,7 @@
     url: /about/why-attend/
   - title: Who We Are
     url: /about/who-we-are/
-  - title: Past Events
-    url: /about/past-events/
+  
 - title: Call for Speakers
   url: /call-for-speakers/
 - title: Conference
@@ -32,6 +31,8 @@
     url: /conference/student-volunteers
 - title: Register
   url: /register/
+- title: Past Events
+    url: /past-events/
 - title: FAQ
   url: /faq/
 
