@@ -32,7 +32,10 @@
 - title: Register
   url: /register/
 - title: Past Events
-  url: /past-events/
+  url: /past-events/01-GX2018/
+  sub-links:
+  - title: GX2018
+    url: /past-events/01-GX2018/
 - title: FAQ
   url: /faq/
 
