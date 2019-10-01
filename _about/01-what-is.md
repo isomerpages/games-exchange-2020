@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
 title: What is gamesXchange?
-permalink: /about/01-what-is-gamesxchange/
-breadcrumb: What is gamesXchange
+permalink: /about/01-what-is/
+breadcrumb: What is gamesXchange?
 collection_name: about
 ---
 
