@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: About Games Exchange
-permalink: /about/about-gamesxchange/
+permalink: /about/01-about-gamesxchange/
 breadcrumb: About gamesXchange
 collection_name: about
 ---
