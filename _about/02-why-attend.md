@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Why attend gamesXchange
+title: Why attend gamesXchange?
 permalink: /about/02-why-attend/
-breadcrumb: Why attend gamesXchange
+breadcrumb: Why attend gamesXchange?
 collection_name: about
 ---
 
