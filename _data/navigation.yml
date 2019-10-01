@@ -36,6 +36,8 @@
   sub-links:
   - title: GX2018
     url: /pastevents/01-gx2018/
+  - title: TEST
+    url: /pastevents/02-test/
 - title: FAQ
   url: /faq/
 
