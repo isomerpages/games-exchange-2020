@@ -5,15 +5,15 @@
 ##################################
 
 - title: About
-  url: /about/01-about-gamesxchange/
+  url: /about/01-what-is/
   sub-links:
-  - title: About gamesXchange
-    url: /about/01-about-gamesxchange/
-  - title: Why Attend gamesXchange
+  - title: What is gamesXchange?
+    url: /about/01-what-is/
+  - title: Why attend gamesXchange?
     url: /about/02-why-attend/
-  - title: Who We Are
+  - title: Who organises gamesXchange?
     url: /about/03-who-we-are/
-  - title: Location
+  - title: Where is gamesXchange held?
     url: /about/04-location/
     
 - title: Call for Speakers
