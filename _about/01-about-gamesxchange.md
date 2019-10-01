@@ -1,12 +1,10 @@
 ---
 layout: leftnav-page-content
-title: About Games Exchange
+title: About gamesXchange
 permalink: /about/01-about-gamesxchange/
 breadcrumb: About gamesXchange
 collection_name: about
 ---
-
-# About gamesXchange
 
 The gamesXchange (GX) Conference, which was first held in 2014, serves as a platform for participants to learn and share on the meaningful use of games, simulations and gaming technology for impact, particularly for work and learning within the Public Sector. Run biennially, the Conference allows for interaction between the public-private-people sector to explore potential collaborations. 
 
