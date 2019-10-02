@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: What is gamesXchange?
+title: About GX
 permalink: /about/01-what-is/
 breadcrumb: What is gamesXchange?
 collection_name: about
