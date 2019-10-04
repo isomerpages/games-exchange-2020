@@ -33,7 +33,7 @@
   url: /register/
 - title: Past Events
   #url: /pastevents/01-gx2018
-  url: /pastevents/01-gx2018/
+  url: /_pastevents/01-gx2018.md/
   sub-links:
   - title: GX2018
     url: /pastevents/01-gx2018/
