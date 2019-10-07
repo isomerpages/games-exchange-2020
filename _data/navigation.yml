@@ -32,7 +32,8 @@
 - title: Register
   url: /register/
 - title: Past Events
-  url: /pastevents/01-gx2018/
+  # url: /pastevents/01-gx2018/
+  url: /gx2018-test/
   sub-links:
   - title: GX2018
     url: /pastevents/01-gx2018/
