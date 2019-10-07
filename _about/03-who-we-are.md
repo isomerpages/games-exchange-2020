@@ -8,7 +8,8 @@ collection_name: about
 
 gamesXchange is organised by a committee hailing from the Civil Service College (CSC), in partnership with the Lifelong Learning Institute (LLI), and supported by the Singapore Cybersports & Online Gaming Association (SCOGA) and the Singapore Computer Society (SCS). 
 
-CSC was established as a statutory board under the Public Service Division in 2001. CSC aims to deliver innovative, inspiring, and impactful learning experiences for public officers.
+<center><img src="/images/MB-logo.jpg" alt="CSC" style="width:300px;height:200px;"></center>
+<br>CSC was established as a statutory board under the Public Service Division in 2001. CSC aims to deliver innovative, inspiring, and impactful learning experiences for public officers.
 
 LLI was launched in 2013 as one of the two Continuing Education and Training campuses (CET) by SkillsFuture Singapore (SSG). 
 
