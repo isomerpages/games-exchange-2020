@@ -7,3 +7,11 @@ collection_name: pastevents
 ---
 
 Relive the memorable, fun and insightful moments from GX2018!
+
+<a href="https://photos.app.goo.gl/Rgc5wcmtKzpkWraR6"><img src="/images/gx2018_logo_colour.png" alt="GX2018 logo"></a>
+
+| <img src="/images/GX2018_gallery/images/6C8A2112.jpg"> | <img src="/images/GX2018_gallery/images/6C8A2098.jpg"> | <img src="/images/GX2018_gallery/images/6C8A2096.jpg"> |
+| --- | --- | --- |
+| <img src="/images/GX2018_gallery/images/6C8A2084.jpg"> | <img src="/images/GX2018_gallery/images/6C8A2391.jpg"> | <img src="/images/GX2018_gallery/images/RJ1_7183.jpg"> |
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LKg06JA8S8Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
