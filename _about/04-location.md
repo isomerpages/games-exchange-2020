@@ -10,11 +10,10 @@ gamesXchange will be held at the **Lifelong Learning Institute (LLI)**.
 <br/>Address: 11 Eunos Rd 8, Singapore 408601
 <br/>Closest MRT: Paya Lebar MRT (EW8/CC9)
 
-[<img src="/images/locamap.png" width="50%">](https://plus.codes/6PH58V9R+WW)
-<br/>#### 8V9R+WW Singapore
+<a href = "https://plus.codes/6PH58V9R+WW" target="_blank"><img src="/images/locamap.png" width="50%"></a>
+###### 8V9R+WW Singapore
 
 ###### **MRT**:
-
 3 minutes walk from Paya Lebar MRT, accessible via the East-West Line (EW8) and Circle Line (CC9).
 
 - Circle Line (CC9), Exit B
@@ -24,7 +23,6 @@ gamesXchange will be held at the **Lifelong Learning Institute (LLI)**.
   - Upon exiting, turn left and walk straight until you reach Paya Lebar Road. Then, turn right, walk straight and you will see LLI on your right, after passing Paya Lebar Square.
 
 ###### **By CAR**
-
 - From PIE, exit Paya Lebar Road, left turn after Cisco Building towards Eunos Ave 5/Eunos Road 8. Turn right into Lifelong Learning Institute (LLI) carpark.
 
 - From Sims Avenue, turn left onto Paya Lebar Road, past Shell station on the right, make a U-turn at the traffic junction. After, turn left after Cisco Building towards Eunos Ave 5. Turn right into Lifelong Learning Institute (LLI) carpark.
