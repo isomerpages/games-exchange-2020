@@ -20,17 +20,17 @@
   url: /call-for-speakers/
 - title: Conference
   url: /conference/agenda/
-  sub-links:
-  - title: Agenda
-    url: /conference/agenda/
-  - title: Speakers
-    url: /conference/speakers
-  - title: Exhibitors
-    url: /conference/exhibitors
-  - title: Student Volunteers
-    url: /conference/student-volunteers
-- title: Register
-  url: /register/
+  #sub-links:
+  #- title: Agenda
+  #  url: /conference/agenda/
+  #- title: Speakers
+  #  url: /conference/speakers
+  #- title: Exhibitors
+  #  url: /conference/exhibitors
+  #- title: Student Volunteers
+  #  url: /conference/student-volunteers
+#- title: Register
+  #url: /register/
 - title: GX 2018
   # url: /pastevents/01-gx2018/
   url: /gx2018/
