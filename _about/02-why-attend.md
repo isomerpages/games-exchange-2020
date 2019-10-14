@@ -11,6 +11,18 @@ Be inspired by speakers and panellists sharing great ideas and insights. Meet an
 
 ## Play. 
 
+<div class="category-stacked-area">
+  
+<div class="photo-stacked-wrap">
+  <div class="photos">
+    <img class="photo-lv-1" src="/images/GX2018_gallery/images/RJ1_7742.jpg">
+    <img class="photo-lv-2" src="/images/GX2018_gallery/images/RJ1_7458.jpg">
+    <img class="photo-lv-3" src="/images/GX2018_gallery/images/RJ1_7263.jpg">
+  </div>
+  <p>Play!</p>
+</div> 
+</div>
+
 | <img class="photo-lv-1" src="/images/GX2018_gallery/images/RJ1_7742.jpg" width="30%"> | <img class="photo-lv-2" src="/images/GX2018_gallery/images/RJ1_7458.jpg" width="30%"> | <img class="photo-lv-3" src="/images/GX2018_gallery/images/RJ1_7263.jpg" width="30%"> |
 
 Leave GX with greater knowledge, broadened networks, and brighter ideas. All these opportunities, in a single action-packed conference.
