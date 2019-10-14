@@ -7,29 +7,11 @@ collection_name: about
 ---
 # Why Attend?
 
-<div class="category-stacked-area">
-<div class="photo-stacked-wrap">
-  <div class="photos">
-    <img class="photo-lv-1" src="/images/GX2018_gallery/images/RJ1_7337.jpg" width="50%">
-    <img class="photo-lv-2" src="/images/GX2018_gallery/images/RJ1_7333.jpg" width="50%">
-    <img class="photo-lv-3" src="/images/GX2018_gallery/images/RJ1_7328.jpg" width="50%">
-  </div>
-</div>
-</div>
-
-
 Be inspired by speakers and panellists sharing great ideas and insights. Meet and network with likeminded fellows. Learn from masters and experts in creating and designing play experiences for impact. Participate in discussions. Interact with exhibitions. 
 
 ## Play. 
-<div class="category-stacked-area">
-<div class="photo-stacked-wrap">
-  <div class="photos">
-    <img class="photo-lv-1" src="/images/GX2018_gallery/images/RJ1_7742.jpg" width="50%">
-    <img class="photo-lv-2" src="/images/GX2018_gallery/images/RJ1_7458.jpg" width="50%">
-    <img class="photo-lv-3" src="/images/GX2018_gallery/images/RJ1_7263.jpg" width="50%">
-  </div>
-</div>
-</div>
+
+| <img class="photo-lv-1" src="/images/GX2018_gallery/images/RJ1_7742.jpg" width="30%"> | <img class="photo-lv-2" src="/images/GX2018_gallery/images/RJ1_7458.jpg" width="30%"> | <img class="photo-lv-3" src="/images/GX2018_gallery/images/RJ1_7263.jpg" width="30%"> |
 
 Leave GX with greater knowledge, broadened networks, and brighter ideas. All these opportunities, in a single action-packed conference.
 
