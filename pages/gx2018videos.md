@@ -5,7 +5,7 @@ permalink: /gx2018videos/
 breadcrumb: GX2018 Videos
 collection_name: GX2018
 ---
-## Missed your opportunity for GX2018? Hear what they have shared at the Games Exchange!
+## Watch interviews with GX2018 keynote speakers and presenters
 <a href="https://photos.app.goo.gl/Rgc5wcmtKzpkWraR6"><img src="/images/gx2018_logo_colour.png" width="30%" length="30%" alt="GX2018 logo"></a>
 
 | Keynote Speaker: John Hunter | Immersive Environment - Martin Hoon, NetDragon |
