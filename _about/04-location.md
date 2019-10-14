@@ -11,7 +11,7 @@ gamesXchange will be held at the **Lifelong Learning Institute (LLI)**.
 <br/>Closest MRT: Paya Lebar MRT (EW8/CC9)
 
 <a href = "https://plus.codes/6PH58V9R+WW" target="_blank"><img src="/images/locamap.png" width="50%"></a>
-###### 8V9R+WW Singapore
+<br/>*8V9R+WW Singapore*
 
 ###### **MRT**:
 3 minutes walk from Paya Lebar MRT, accessible via the East-West Line (EW8) and Circle Line (CC9).
