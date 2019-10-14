@@ -1,10 +1,9 @@
-
 ---
 layout: simple-page
 title: GX2018
-permalink: /gx2018/
+permalink: /gx2018videos/
 breadcrumb: GX2018_videos
-collection_name: pastevents
+collection_name: GX2018
 ---
 ## Relive the memorable, fun and insightful moments from GX2018!
 <a href="https://photos.app.goo.gl/Rgc5wcmtKzpkWraR6"><img src="/images/gx2018_logo_colour.png" width="30%" length="30%" alt="GX2018 logo"></a>
