@@ -20,6 +20,7 @@ Be inspired by speakers and panellists sharing great ideas and insights. Meet an
     <img class="photo-lv-3" src="/images/GX2018_gallery/images/RJ1_7263.jpg">
   </div>
   <p>Play!</p>
+  <a class="cover" href="/gx2018"></a>
 </div> 
 </div>
 
