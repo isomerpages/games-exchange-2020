@@ -24,14 +24,6 @@ Be inspired by speakers and panellists sharing great ideas and insights. Meet an
 </div> 
 </div>
 
-<div class="category-block-wrap">
-  <p>GX 2018 Speakers</p>
-  <img class="cover" src="/images/GX2018_gallery/images/RJ1_7742.jpg">
-  <a class="cover" href="/gx2018/"></a>
-</div>
-
-| <img class="photo-lv-1" src="/images/GX2018_gallery/images/RJ1_7742.jpg" width="30%"> | <img class="photo-lv-2" src="/images/GX2018_gallery/images/RJ1_7458.jpg" width="30%"> | <img class="photo-lv-3" src="/images/GX2018_gallery/images/RJ1_7263.jpg" width="30%"> |
-
 Leave GX with greater knowledge, broadened networks, and brighter ideas. All these opportunities, in a single action-packed conference.
 
 Look out for more information on **GX2020** soon! 
