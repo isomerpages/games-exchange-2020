@@ -6,6 +6,8 @@ title: Call for Speakers
 ---
 
 
-## Title
+## Call For Speakers
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LKg06JA8S8Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+If you are interested to share and present anything related to serious games/ policy games, we would like to get in touch with you. You can drop us an email at [CSCOLLEGE-LFG@cscollege.gov.sg](CSCOLLEGE-LFG@cscollege.gov.sg) and we will contact you for more details.
+
+*Stay tune to our website for GX2020 updates and details.*
