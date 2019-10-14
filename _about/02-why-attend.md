@@ -9,9 +9,9 @@ collection_name: about
 
 <div class="photo-stacked-wrap">
   <div class="food">
-    <img class="photo-lv-1" src="images/GX2018_gallery/images/RJ1_7337.jpg">
-    <img class="photo-lv-2" src="images/GX2018_gallery/images/RJ1_7333.jpg">
-    <img class="photo-lv-3" src="images/GX2018_gallery/images/RJ1_7328.jpg">
+    <img class="photo-lv-1" src="/images/GX2018_gallery/images/RJ1_7337.jpg">
+    <img class="photo-lv-2" src="/images/GX2018_gallery/images/RJ1_7333.jpg">
+    <img class="photo-lv-3" src="/images/GX2018_gallery/images/RJ1_7328.jpg">
   </div>
 </div>
 
@@ -22,9 +22,9 @@ Be inspired by speakers and panellists sharing great ideas and insights. Meet an
 ## Play. 
 <div class="photo-stacked-wrap">
   <div class="fun">
-    <img class="photo-lv-1" src="images/GX2018_gallery/images/RJ1_7742.jpg">
-    <img class="photo-lv-2" src="images/GX2018_gallery/images/RJ1_7458.jpg">
-    <img class="photo-lv-3" src="images/GX2018_gallery/images/RJ1_7263.jpg">
+    <img class="photo-lv-1" src="/images/GX2018_gallery/images/RJ1_7742.jpg">
+    <img class="photo-lv-2" src="/images/GX2018_gallery/images/RJ1_7458.jpg">
+    <img class="photo-lv-3" src="/images/GX2018_gallery/images/RJ1_7263.jpg">
   </div>
 </div>
 
