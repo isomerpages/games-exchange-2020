@@ -2,10 +2,10 @@
 layout: simple-page
 title: GX2018
 permalink: /gx2018videos/
-breadcrumb: GX2018_videos
+breadcrumb: GX2018 Videos
 collection_name: GX2018
 ---
-## Missed your opportunity to attend GX2018? Hear what they have shared at the Games Exchange!
+## Missed your opportunity for GX2018? Hear what they have shared at the Games Exchange!
 <a href="https://photos.app.goo.gl/Rgc5wcmtKzpkWraR6"><img src="/images/gx2018_logo_colour.png" width="30%" length="30%" alt="GX2018 logo"></a>
 
 | Keynote Speaker: John Hunter | Immersive Environment - Martin Hoon, NetDragon |
@@ -18,5 +18,5 @@ collection_name: GX2018
 | <a href="http://www.youtube.com/watch?feature=player_embedded&v=HGoVzlveoDM" target="_blank"><img src="http://img.youtube.com/vi/HGoVzlveoDM/0.jpg" alt="SelfDrvn" border="2" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=kiF0llGQ6O8" target="_blank"><img src="http://img.youtube.com/vi/kiF0llGQ6O8/0.jpg" alt="Codomo " border="2" /></a> |
 | Tan Ken Jin (Ministry of Education) | Antidote Games  |
 | <a href="http://www.youtube.com/watch?feature=player_embedded&v=w2Syg6bkK5k" target="_blank"><img src="http://img.youtube.com/vi/w2Syg6bkK5k/0.jpg" alt="SelfDrvn" border="2" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=I72s2rUnokg" target="_blank"><img src="http://img.youtube.com/vi/I72s2rUnokg/0.jpg" alt="Codomo " border="2" /></a> |
-| NetDragon | ---  |
-| <a href="http://www.youtube.com/watch?feature=player_embedded&v=bbHCLvJGvOQ" target="_blank"><img src="http://img.youtube.com/vi/bbHCLvJGvOQ/0.jpg" alt="SelfDrvn" border="2" /></a> | --- |
+| NetDragon |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=bbHCLvJGvOQ" target="_blank"><img src="http://img.youtube.com/vi/bbHCLvJGvOQ/0.jpg" alt="SelfDrvn" border="2" /></a> |
