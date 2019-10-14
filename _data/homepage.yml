@@ -23,11 +23,11 @@ button:
 key-highlights:
   - title: GX2018 Photo Gallery
     description: Relive the moments of GX2018!
-    url: https://photos.app.goo.gl/Rgc5wcmtKzpkWraR6
+    url: \gx2018\
     external: true
   - title: GX2018 Videos
     description: Watch interviews with GX2018 presenters and participants!
-    url: https://www.youtube.com/playlist?list=PLDiAIbnRLMPMg2cckbmzTEzTK8sX8pviG&disable_polymer=true
+    url: \gx2018videos\
     external: true
   - title: Call For Speakers
     description: Who would you like to see at GX2020?
