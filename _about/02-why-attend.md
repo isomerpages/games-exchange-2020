@@ -26,7 +26,7 @@ Be inspired by speakers and panellists sharing great ideas and insights. Meet an
 
 <div class="category-block-wrap">
   <p>GX 2018 Speakers</p>
-  <img class="cover" src="/images/power-and-worship-button.jpg">
+  <img class="cover" src="/images/GX2018_gallery/images/RJ1_7742.jpg">
   <a class="cover" href="/gx2018/"></a>
 </div>
 
