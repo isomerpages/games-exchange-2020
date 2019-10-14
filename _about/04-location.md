@@ -10,7 +10,7 @@ gamesXchange will be held at the Lifelong Learning Institute (LLI).
 
 Address: 11 Eunos Rd 8, Singapore 408601. The closest MRT is Paya Lebar MRT (EW8/CC9).
 
-<img src="images/locamap.png">
+<img src="/images/locamap.png">
 
 ###### **MRT**:
 
