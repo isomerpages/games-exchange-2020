@@ -42,3 +42,19 @@ info-sections:
     external: false
     section-more-button-url: /about/01-what-is/
     section-image-path: /images/GX2018_gallery/images/RJ1_5549.jpg
+
+  - section-title: 
+    section-subtitle: Call For Speakers
+    section-description: Seeking speakers who are thought leaders, or professionals who are open to share both the mistakes and the successes of what they have learned...
+    section-more-button: Find out more
+    external: false
+    section-more-button-url: /call-for-speakers/
+    section-image-path: /images/GX2018_gallery/images/6C8A2202.jpg
+
+  - section-title: 
+    section-subtitle: GX2018
+    section-description: Check out what the thought leaders and other speakers shared at the previous conference.
+    section-more-button: Back to 2018
+    external: false
+    section-more-button-url: /gx2018/
+    section-image-path: /images/GX2018_gallery/images/RJ1_7132.jpg
