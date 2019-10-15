@@ -6,7 +6,7 @@ breadcrumb: What is gamesXchange?
 collection_name: about
 ---
 
-<img src="/images/GX2018_gallery/images/RJ1_5697.jpg" width="70%" align="center">
+<img src="/images/peterho.jpg" align="center">
 
 > *The trends for the future is through exploring possibilities and co-creation. Developers created platforms for players to be 'co-creating' games, by bringing different perspectives and skills to the table. This is a platform for people across sectors, to create connections and conversations on games and simulations that bring real impact.*
 > 
