@@ -32,3 +32,29 @@ key-highlights:
   - title: Call For Speakers
     description: Who would you like to see at GX2020?
     url: /call-for-speakers
+
+# Info Sections
+info-sections:
+  - section-title: 
+    section-subtitle: About GX2020
+    section-description:  Come to learn on the meaningful use of games, simulations and gaming technology for impact!
+    section-more-button: Find out more
+    external: false
+    section-more-button-url: /about/01-what-is/
+    section-image-path: /images/GX2018_gallery/images/RJ1_5549.jpg
+
+  - section-title: 
+    section-subtitle: Call For Speakers
+    section-description: Seeking speakers who are thought leaders, or professionals who are open to share both the mistakes and the successes of what they have learned...
+    section-more-button: Find out more
+    external: false
+    section-more-button-url: /call-for-speakers/
+    section-image-path: /images/GX2018_gallery/images/6C8A2202.jpg
+
+      - section-title: 
+    section-subtitle: GX 2018
+    section-description: 2-day conference with speakers like John Hunter, Antidote Games, Thought Collective, Codomo etc.
+    section-more-button: Check out photos & videos
+    external: false
+    section-more-button-url: /gx2018/
+    section-image-path: /images/GX2018_gallery/images/RJ1_7132.jpg
