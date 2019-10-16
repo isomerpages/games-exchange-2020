@@ -8,7 +8,7 @@ collection_name: GX2018
 ## Watch interviews with GX2018 keynote speakers and presenters
 <a href="https://photos.app.goo.gl/Rgc5wcmtKzpkWraR6"><img src="/images/gx2018_logo_colour.png" width="30%" length="30%" alt="GX2018 logo"></a>
 
-| Keynote Speaker: John Hunter <br/>Can Empty-Space Thinking Open Up Room for 21st-Century Problem Solving? The World Peace Game Model | Immersive Environment - Martin Hoon, NetDragon |
+| Keynote Speaker: John Hunter | Martin Hoon, NetDragon |
 | <a href="http://www.youtube.com/watch?feature=player_embedded&v=LKg06JA8S8Q" target="_blank"><img src="http://img.youtube.com/vi/LKg06JA8S8Q/0.jpg" alt="World Peace Game Model" border="2" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=6uRXxBXNgQ0" target="_blank"><img src="http://img.youtube.com/vi/6uRXxBXNgQ0/0.jpg" alt="NetDragon" border="2" /></a> |
 
 ###### Play Experiences
