@@ -41,7 +41,7 @@ info-sections:
     section-more-button: Find out more
     external: false
     section-more-button-url: /about/01-what-is/
-    section-image-path: /images/GX2018_gallery/images/RJ1_5549.jpg
+    section-image-path: /images/IMG_20191004_162752.jpg
 
   - section-title: 
     section-subtitle: Call For Speakers
@@ -57,4 +57,4 @@ info-sections:
     section-more-button: Check it out
     external: false
     section-more-button-url: /gx2018/
-    section-image-path: /images/GX2018_gallery/images/RJ1_7132.jpg
+    section-image-path: /images/GX2018_gallery/images/RJ1_5549.jpg
