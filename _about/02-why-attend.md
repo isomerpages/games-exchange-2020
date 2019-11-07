@@ -9,7 +9,7 @@ collection_name: about
 
 Be inspired by speakers and panellists sharing great ideas and insights. Meet and network with likeminded fellows. Learn from masters and experts in creating and designing play experiences for impact. Participate in discussions. Interact with exhibitions.
 
-
+<br>
 <div class="category-stacked-area">
 <div class="photo-stacked-wrap">
   <div class="photos">
