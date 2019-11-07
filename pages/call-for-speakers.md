@@ -8,6 +8,6 @@ title: Call for Speakers
 
 ## Call For Speakers
 
-If you are interested to share and present anything related to serious games/ policy games, we would like to get in touch with you. You can drop us an email at <CSCOLLEGE-LFG@cscollege.gov.sg> or message to our facebook page [(@theGamesXchange)](https://www.facebook.com/theGamesXchange/) and we will contact you for more details.
+If you are interested to share or exhibit anything related to serious games or policy games, please get in touch with us. You can drop us an email at <CSCOLLEGE-LFG@cscollege.gov.sg> or send a message to our Facebook page [(@theGamesXchange)](https://www.facebook.com/theGamesXchange/) to let us know how you might be a part of gamesXchange.
 
-*Stay tune to our website for GX2020 updates and details.*
+*Stay tuned to this website for more GX2020 updates.*
