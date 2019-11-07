@@ -5,9 +5,9 @@ permalink: /about/03-who-we-are/
 breadcrumb: GX Organisers
 collection_name: about
 ---
-## GX Organisers
+## gamesXchange Organisers
 
-gamesXchange is organised by a committee hailing from the [Civil Service College (CSC)](https://www.csc.gov.sg/), in partnership with the Lifelong Learning Institute (LLI), and supported by the Singapore Cybersports & Online Gaming Association (SCOGA) and the Singapore Computer Society (SCS).
+gamesXchange is organised by a committee from the [Civil Service College (CSC)](https://www.csc.gov.sg/), in partnership with the Lifelong Learning Institute (LLI), and supported by the Singapore Cybersports & Online Gaming Association (SCOGA) and the Singapore Computer Society (SCS).
 
 
 <img src="/images/Civil_Service_College_Singapore_logo.png" alt="CSC" style="width:300px;">
