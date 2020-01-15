@@ -32,7 +32,7 @@ breadcrumb: Privacy
   </li>
   <li>
     <dl>
-      <dt>Please contact 1800 211 0777 or <a href="mailto:qsm@tech.gov.sg">qsm@tech.gov.sg</a> if you:</dt>
+      <dd>Please contact 1800 211 0777 or <a href="mailto:qsm@tech.gov.sg">qsm@tech.gov.sg</a> if you:</dd>
       <dd>(a) have any enquires or feedback on our data protection policies and procedures,</dd>
       <dd>(b) need more information on or access to data which you have provided to us in the past.</dd>
     </dl>
