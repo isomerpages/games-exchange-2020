@@ -18,7 +18,7 @@ breadcrumb: Privacy
   </li>
   <li>
     <dl>
-      <dt>If you provide us with personally identifiable data</dt>
+      <dd>If you provide us with personally identifiable data</dd>
       <dd>(a) We may share necessary data with other Government agencies, so as to serve you in the most efficient and effective way unless such sharing is prohibited by law.</dd>
       <dd>(b) We will NOT share your Personal Data with non-Government entities, except where such entities have been authorised to carry out specific Government services.</dd>
       <dd>(c) For your convenience, we may also display to you data you had previously supplied us or other Government Agencies.  This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data.</dd>
@@ -34,7 +34,7 @@ breadcrumb: Privacy
     <dl>
       <dt>Please contact 1800 211 0777 or <a href="mailto:qsm@tech.gov.sg">qsm@tech.gov.sg</a> if you:</dt>
       <dd>(a) have any enquires or feedback on our data protection policies and procedures,</dd>
-      <dd>(b) need more information on or access to data which you have provided to us in the past..</dd>
+      <dd>(b) need more information on or access to data which you have provided to us in the past.</dd>
     </dl>
   </li>
 </ol>
