@@ -11,6 +11,7 @@ title: FAQ
 | --- |
 | Q: I’m interested in helping out for GX. Can I? |
 | Thanks for your interest! We’re currently recruiting student volunteers for the GX conference. Duties include helping out with registration, ushering, social media, or other support work. Please email us at CSCOLLEGE-LFG@cscollege.gov.sg for more details. |
+
 | OTHERS |
 | --- |
 | Q: Are there storage facilities available at the venue for me to store personal belongings? |
