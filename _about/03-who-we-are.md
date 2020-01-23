@@ -18,9 +18,5 @@ gamesXchange is organised by a committee from the [Civil Service College (CSC)](
 **LLI** was launched in 2013 as one of the two Continuing Education and Training campuses (CET) by SkillsFuture Singapore (SSG).
 
 
-<img src="/images/SCOGA.png" alt="CSC" style="width:300px;">
-**SCOGA** was founded by a group of enthusiastic gamers and leaders who wanted to make a difference in the local gaming scene, especially in developing the local eSports scene.
-
-
 <img src="/images/Picture3.png" alt="CSC" style="width:300px;">
 **SCS** is the leading infocomm and digital media professional society in Singapore, and the premier organisation for industry practitioners, leaders, students and ICT enthusiasts.
