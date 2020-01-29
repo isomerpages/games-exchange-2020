@@ -14,8 +14,8 @@ Beyond the pre-event masterclasses, keynote sessions and plenaries, there were 3
 ## Keynote Speakers
 <table style="width:100%; border:0px">
   <tr>
-    <td style="width:50%"><b>John Hunter</b></td>
-    <td style="width:50%"><b>Martin Hoon, NetDragon</b></td>
+    <th style="width:50%"><b>John Hunter</b></td>
+    <th style="width:50%"><b>Martin Hoon, NetDragon</b></td>
   </tr>
   <tr>
     <td>The Nuts and Bolts of Compassion-Driven Problem Solving in the World Peace Game</td>
