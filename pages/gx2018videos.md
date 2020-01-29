@@ -25,6 +25,7 @@ Codomo | Thought Collective
 --- | ---
 Unlock the possibility of learning programming with Potato Pirates | The Game of Priority
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=I_h-7Ch8cAA" target="_blank"><img src="http://img.youtube.com/vi/I_h-7Ch8cAA/0.jpg" alt="Codomo " border="2" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=_vvaxoTLaDs" target="_blank"><img src="http://img.youtube.com/vi/_vvaxoTLaDs/0.jpg" alt="ThoughtCollective" border="2" /></a>
+
 Tan Ken Jin | Antidote Games
 --- | ---
 From Games for LOL to Games for Learning | Reframing the World through Play
@@ -40,6 +41,6 @@ Gametize | SelfDrvn
 The Art of Gamification | Using Emerging Technologies To Create Immersive Experiences in Non-Gaming Industries |
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=jrFIoA8_LRo" target="_blank"><img src="http://img.youtube.com/vi/jrFIoA8_LRo/0.jpg" alt="Gametize" border="2" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=WX0gZylkTcI" target="_blank"><img src="http://img.youtube.com/vi/WX0gZylkTcI/0.jpg" alt="SelfDrvn" border="2" /></a>
 
-NetDragon |
+NetDragon |  
 --- | ---
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=bbHCLvJGvOQ" target="_blank"><img src="http://img.youtube.com/vi/bbHCLvJGvOQ/0.jpg" alt="NetDragon" border="2" /></a> |
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=bbHCLvJGvOQ" target="_blank"><img src="http://img.youtube.com/vi/bbHCLvJGvOQ/0.jpg" alt="NetDragon" border="2" /></a> |  
