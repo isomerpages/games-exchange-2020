@@ -11,6 +11,15 @@ collection_name: GX2018
 
 Beyond the pre-event masterclasses, keynote sessions and plenaries, there were 3 breakout tracks to suit the participants' needs: Art and Science of Games, Technology for Games and Play Experience. Take a look at the below videos to learn about our speakers' takeaways for the event.
 
+<style>
+table th:first-of-type {
+    width: 50%;
+}
+table th:nth-of-type(2) {
+    width: 50%;
+}
+</style>
+
 ## Keynote Speakers
 
 John Hunter | Martin Hoon, NetDragon
@@ -20,27 +29,52 @@ The Nuts and Bolts of Compassion-Driven Problem Solving in the World Peace Game 
 
 ## Sharing from Speakers & Exhibitors
 
-Codomo | Thought Collective
+Antidote Games | Arctic Shores
 --- | ---
-Unlock the possibility of learning programming with Potato Pirates | The Game of Priority
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=I_h-7Ch8cAA" target="_blank"><img src="http://img.youtube.com/vi/I_h-7Ch8cAA/0.jpg" alt="Codomo " border="2" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=_vvaxoTLaDs" target="_blank"><img src="http://img.youtube.com/vi/_vvaxoTLaDs/0.jpg" alt="ThoughtCollective" border="2" /></a>
+Reframing the World through Play | Gamification in Recruitment: Gimmick or Game Changer?
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=I72s2rUnokg" target="_blank"><img src="http://img.youtube.com/vi/I72s2rUnokg/0.jpg" alt="Antidote Games" border="2" /></a> | <a href="https://youtu.be/EL0id55Oh7s" target="_blank"><img src="http://img.youtube.com/vi/EL0id55Oh7s/0.jpg" alt="Arctic Shores" border="2" /></a>
 
-Tan Ken Jin | Antidote Games
+Aviation Virtual | Codomo
 --- | ---
-From Games for LOL to Games for Learning | Reframing the World through Play
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=w2Syg6bkK5k" target="_blank"><img src="http://img.youtube.com/vi/w2Syg6bkK5k/0.jpg" alt="Ken Jin" border="2" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=I72s2rUnokg" target="_blank"><img src="http://img.youtube.com/vi/I72s2rUnokg/0.jpg" alt="Antidote Games" border="2" /></a>
+The Art and Science of Collaboration | Unlock the possibility of learning programming with Potato Pirates
+<a href="https://youtu.be/T89ezTUkeXY" target="_blank"><img src="http://img.youtube.com/vi/T89ezTUkeXY/0.jpg" alt="Aviation Virtual " border="2" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=I_h-7Ch8cAA" target="_blank"><img src="http://img.youtube.com/vi/I_h-7Ch8cAA/0.jpg" alt="Codomo " border="2" /></a>
 
-NetDragon | Living Theories
+Etch Empathy | Gametize
 --- | ---
-Use of Virtual Reality for Health Insights | Gaming the System: Playing with Game Mechanics
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=bbHCLvJGvOQ" target="_blank"><img src="http://img.youtube.com/vi/bbHCLvJGvOQ/0.jpg" alt="NetDragon" border="2" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=kiF0llGQ6O8" target="_blank"><img src="http://img.youtube.com/vi/kiF0llGQ6O8/0.jpg" alt="Living Theories" border="2" /></a>
+Trash to Cash | The Art of Gamification
+<a href="https://youtu.be/iA1nzGXB5z0" target="_blank"><img src="http://img.youtube.com/vi/iA1nzGXB5z0/0.jpg" alt="Aviation Virtual " border="2" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=jrFIoA8_LRo" target="_blank"><img src="http://img.youtube.com/vi/jrFIoA8_LRo/0.jpg" alt="Gametize" border="2" /></a>
 
-Gametize | SelfDrvn
+Health Promotion Board | Living Theories
 --- | ---
-The Art of Gamification | Using Emerging Technologies To Create Immersive Experiences in Non-Gaming Industries |
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=jrFIoA8_LRo" target="_blank"><img src="http://img.youtube.com/vi/jrFIoA8_LRo/0.jpg" alt="Gametize" border="2" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=WX0gZylkTcI" target="_blank"><img src="http://img.youtube.com/vi/WX0gZylkTcI/0.jpg" alt="SelfDrvn" border="2" /></a>
+Making Health Fun: What Can We Use from Serious Games? | Gaming the System: Playing with Game Mechanics
+<a href="https://youtu.be/7Pd7T-knRMY" target="_blank"><img src="http://img.youtube.com/vi/7Pd7T-knRMY/0.jpg" alt="HPB" border="2" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=kiF0llGQ6O8" target="_blank"><img src="http://img.youtube.com/vi/kiF0llGQ6O8/0.jpg" alt="Living Theories" border="2" /></a>
+
+NetDragon | Octalysis Group
+--- | ---
+Creating Immersive Environments for Learning | Octalysis Prime
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=bbHCLvJGvOQ" target="_blank"><img src="http://img.youtube.com/vi/bbHCLvJGvOQ/0.jpg" alt="NetDragon" border="2" /></a> | <a href="https://youtu.be/yiXpm5Ap2H4" target="_blank"><img src="http://img.youtube.com/vi/yiXpm5Ap2H4/0.jpg" alt="Octalysis Group" border="2" /></a
+
+Shifting Sands | SelfDrvn
+--- | ---
+Broading Perspectives on Social Assistance Access and Support | Using Emerging Technologies To Create Immersive Experiences in Non-Gaming Industries
+<a href="https://youtu.be/aD6VAvqG0JU" target="_blank"><img src="http://img.youtube.com/vi/WX0gZylkTcI/0.jpg" alt="Shifting Sands" border="2" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=WX0gZylkTcI" target="_blank"><img src="http://img.youtube.com/vi/WX0gZylkTcI/0.jpg" alt="SelfDrvn" border="2" /></a>
+
+Tan Ken Jin | Thought Collective
+--- | ---
+From Games for LOL to Games for Learning | The Game of Priority
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=w2Syg6bkK5k" target="_blank"><img src="http://img.youtube.com/vi/w2Syg6bkK5k/0.jpg" alt="Ken Jin" border="2" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=_vvaxoTLaDs" target="_blank"><img src="http://img.youtube.com/vi/_vvaxoTLaDs/0.jpg" alt="ThoughtCollective" border="2" /></a>
+
+Unity Technologies | Youth Corp Singapore
+--- | ---
+Using Emerging Technologies To Create Immersive Experiences In Non-Gaming Industries | Common Ground Play Experience
+<a href="https://youtu.be/Z34oCPgqthg" target="_blank"><img src="http://img.youtube.com/vi/Z34oCPgqthg/0.jpg" alt="Unity Technologies" border="2" /></a> | <a href="https://youtu.be/ZjcFkdgosp4" target="_blank"><img src="http://img.youtube.com/vi/ZjcFkdgosp4/0.jpg" alt="Youth Corp Singapore" border="2" /></a>
 
 Betasight Technologies | BTS
 --- | ---
-Use of Virtual Reality for Health Insights | Gaming the System: Playing with Game Mechanics
+Use of Virtual Reality for Health Insights | Experiential Learning
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=HGoVzlveoDM" target="_blank"><img src="http://img.youtube.com/vi/HGoVzlveoDM/0.jpg" alt="Betasight Technologies" border="2" /></a> | <a href="https://youtu.be/CrrjMuRWKNg" target="_blank"><img src="http://img.youtube.com/vi/CrrjMuRWKNg/0.jpg" alt="BTS" border="2" /></a>
+
+Playware |  
+--- | ---
+Use of Virtual Reality for Health Insights |   
+<a href="https://youtu.be/t3VO0NYlGoA" target="_blank"><img src="http://img.youtube.com/vi/t3VO0NYlGoA/0.jpg" alt="Playware" border="2" /></a> |   
