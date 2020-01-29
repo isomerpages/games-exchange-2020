@@ -12,21 +12,6 @@ collection_name: GX2018
 Beyond the pre-event masterclasses, keynote sessions and plenaries, there were 3 breakout tracks to suit the participants' needs: Art and Science of Games, Technology for Games and Play Experience. Take a look at the below videos to learn about our speakers' takeaways for the event.
 
 ## Keynote Speakers
-<table style="width:100%; border:0px">
-  <tr>
-    <th style="width:50%"><b>John Hunter</b></td>
-    <th style="width:50%"><b>Martin Hoon, NetDragon</b></td>
-  </tr>
-  <tr>
-    <td>The Nuts and Bolts of Compassion-Driven Problem Solving in the World Peace Game</td>
-    <td>Creating Immersive Environments for Learning</td>
-  </tr>
-  <tr>
-    <td><a href="http://www.youtube.com/watch?feature=player_embedded&v=LKg06JA8S8Q" target="_blank"><img src="http://img.youtube.com/vi/LKg06JA8S8Q/0.jpg" alt="World Peace Game Model" border="2" /></a></td>
-    <td><a href="http://www.youtube.com/watch?feature=player_embedded&v=6uRXxBXNgQ0" target="_blank"><img src="http://img.youtube.com/vi/6uRXxBXNgQ0/0.jpg" alt="NetDragon" border="2" /></a></td>
-  </tr>
-</table>
-
 John Hunter | Martin Hoon, NetDragon
 --- | ---
 The Nuts and Bolts of Compassion-Driven Problem Solving in the World Peace Game | Creating Immersive Environments for Learning
