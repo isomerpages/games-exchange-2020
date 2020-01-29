@@ -5,14 +5,6 @@ permalink: /gx2018videos/
 breadcrumb: GX2018 Videos
 collection_name: GX2018
 ---
-<style>
-table th:first-of-type {
-    width: 50%;
-}
-table th:nth-of-type(2) {
-    width: 50%;
-}
-</style>
 
 ## Watch interviews with GX2018 keynote speakers and presenters
 <a href="https://photos.app.goo.gl/Rgc5wcmtKzpkWraR6"><img src="/images/gx2018_logo_colour.png" width="30%" length="30%" alt="GX2018 logo"></a>
@@ -20,6 +12,20 @@ table th:nth-of-type(2) {
 Beyond the pre-event masterclasses, keynote sessions and plenaries, there were 3 breakout tracks to suit the participants' needs: Art and Science of Games, Technology for Games and Play Experience. Take a look at the below videos to learn about our speakers' takeaways for the event.
 
 ## Keynote Speakers
+<table style="width:100%">
+  <tr>
+    <td width=50%>John Hunter</td>
+    <td width=50%>Martin Hoon, NetDragon</td>
+  </tr>
+  <tr>
+    <td>The Nuts and Bolts of Compassion-Driven Problem Solving in the World Peace Game</td>
+    <td>Creating Immersive Environments for Learning</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.youtube.com/watch?feature=player_embedded&v=LKg06JA8S8Q" target="_blank"><img src="http://img.youtube.com/vi/LKg06JA8S8Q/0.jpg" alt="World Peace Game Model" border="2" /></a></td>
+    <td><a href="http://www.youtube.com/watch?feature=player_embedded&v=6uRXxBXNgQ0" target="_blank"><img src="http://img.youtube.com/vi/6uRXxBXNgQ0/0.jpg" alt="NetDragon" border="2" /></a></td>
+  </tr>
+</table>
 
 John Hunter | Martin Hoon, NetDragon
 --- | ---
