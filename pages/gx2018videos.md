@@ -23,11 +23,8 @@ Beyond the pre-event masterclasses, keynote sessions and plenaries, there were 3
 ## Keynote Speakers
 
 
-+---------+---------+
 | Header1 | header2 |
-+---------+---------+
 | Bar     | bar     |
-+---------+---------+
 
 John Hunter | Martin Hoon, NetDragon
 --- | ---
