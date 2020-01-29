@@ -10,6 +10,7 @@ collection_name: GX2018
 
 | Keynote Speaker: John Hunter | Martin Hoon, NetDragon |
 | <a href="http://www.youtube.com/watch?feature=player_embedded&v=LKg06JA8S8Q" target="_blank"><img src="http://img.youtube.com/vi/LKg06JA8S8Q/0.jpg" alt="World Peace Game Model" border="2" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=6uRXxBXNgQ0" target="_blank"><img src="http://img.youtube.com/vi/6uRXxBXNgQ0/0.jpg" alt="NetDragon" border="2" /></a> |
+| Impact and Scale of a Game - the World Peace Game | Creating Immersive Environments for Learning |
 | Codomo | Thought Collective |
 | <a href="http://www.youtube.com/watch?feature=player_embedded&v=I_h-7Ch8cAA" target="_blank"><img src="http://img.youtube.com/vi/I_h-7Ch8cAA/0.jpg" alt="Codomo " border="2" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=_vvaxoTLaDs" target="_blank"><img src="http://img.youtube.com/vi/_vvaxoTLaDs/0.jpg" alt="ThoughtCollective" border="2" /></a> |
 | Tan Ken Jin (Ministry of Education) | Antidote Games  |
