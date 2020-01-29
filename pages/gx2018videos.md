@@ -64,10 +64,10 @@ Tan Ken Jin | Thought Collective
 From Games for LOL to Games for Learning | The Game of Priority
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=w2Syg6bkK5k" target="_blank"><img src="http://img.youtube.com/vi/w2Syg6bkK5k/0.jpg" alt="Ken Jin" border="2" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=_vvaxoTLaDs" target="_blank"><img src="http://img.youtube.com/vi/_vvaxoTLaDs/0.jpg" alt="ThoughtCollective" border="2" /></a>
 
-Unity Technologies | Youth Corp Singapore
+Unity Technologies | Youth Corps Singapore
 --- | ---
 Using Emerging Technologies To Create Immersive Experiences In Non-Gaming Industries | Common Ground Play Experience
-<a href="https://youtu.be/Z34oCPgqthg" target="_blank"><img src="http://img.youtube.com/vi/Z34oCPgqthg/0.jpg" alt="Unity Technologies" border="2" /></a> | <a href="https://youtu.be/ZjcFkdgosp4" target="_blank"><img src="http://img.youtube.com/vi/ZjcFkdgosp4/0.jpg" alt="Youth Corp Singapore" border="2" /></a>
+<a href="https://youtu.be/Z34oCPgqthg" target="_blank"><img src="http://img.youtube.com/vi/Z34oCPgqthg/0.jpg" alt="Unity Technologies" border="2" /></a> | <a href="https://youtu.be/ZjcFkdgosp4" target="_blank"><img src="http://img.youtube.com/vi/ZjcFkdgosp4/0.jpg" alt="Youth Corp Singapores" border="2" /></a>
 
 Betasight Technologies | BTS
 --- | ---
