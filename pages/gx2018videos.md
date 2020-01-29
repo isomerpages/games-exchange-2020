@@ -6,14 +6,6 @@ breadcrumb: GX2018 Videos
 collection_name: GX2018
 ---
 
-<style>
-table th:first-of-type {
-    width: 50%;
-}
-table th:nth-of-type(2) {
-    width: 50%;
-}
-</style>
 
 ## Watch interviews with GX2018 keynote speakers and presenters
 <a href="https://photos.app.goo.gl/Rgc5wcmtKzpkWraR6"><img src="/images/gx2018_logo_colour.png" width="30%" length="30%" alt="GX2018 logo"></a>
@@ -21,10 +13,6 @@ table th:nth-of-type(2) {
 Beyond the pre-event masterclasses, keynote sessions and plenaries, there were 3 breakout tracks to suit the participants' needs: Art and Science of Games, Technology for Games and Play Experience. Take a look at the below videos to learn about our speakers' takeaways for the event.
 
 ## Keynote Speakers
-
-
-| Header1 | header2 |
-| Bar     | bar     |
 
 John Hunter | Martin Hoon, NetDragon
 --- | ---
@@ -41,14 +29,17 @@ Tan Ken Jin | Antidote Games
 --- | ---
 From Games for LOL to Games for Learning | Reframing the World through Play
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=w2Syg6bkK5k" target="_blank"><img src="http://img.youtube.com/vi/w2Syg6bkK5k/0.jpg" alt="Ken Jin" border="2" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=I72s2rUnokg" target="_blank"><img src="http://img.youtube.com/vi/I72s2rUnokg/0.jpg" alt="Antidote Games" border="2" /></a>
+
 Betasight Technologies | Living Theories
 --- | ---
 Use of Virtual Reality for Health Insights | Gaming the System: Playing with Game Mechanics
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=HGoVzlveoDM" target="_blank"><img src="http://img.youtube.com/vi/HGoVzlveoDM/0.jpg" alt="Betasight Technologies" border="2" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=kiF0llGQ6O8" target="_blank"><img src="http://img.youtube.com/vi/kiF0llGQ6O8/0.jpg" alt="Living Theories" border="2" /></a>
+
 Gametize | SelfDrvn
 --- | ---
 The Art of Gamification | Using Emerging Technologies To Create Immersive Experiences in Non-Gaming Industries |
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=jrFIoA8_LRo" target="_blank"><img src="http://img.youtube.com/vi/jrFIoA8_LRo/0.jpg" alt="Gametize" border="2" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=WX0gZylkTcI" target="_blank"><img src="http://img.youtube.com/vi/WX0gZylkTcI/0.jpg" alt="SelfDrvn" border="2" /></a>
+
 NetDragon |
 --- | ---
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=bbHCLvJGvOQ" target="_blank"><img src="http://img.youtube.com/vi/bbHCLvJGvOQ/0.jpg" alt="NetDragon" border="2" /></a> |
