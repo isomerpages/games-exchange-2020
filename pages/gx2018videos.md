@@ -5,18 +5,37 @@ permalink: /gx2018videos/
 breadcrumb: GX2018 Videos
 collection_name: GX2018
 ---
+
+<style>
+table th:first-of-type {
+    width: 50%;
+}
+table th:nth-of-type(2) {
+    width: 50%;
+}
+</style>
+
 ## Watch interviews with GX2018 keynote speakers and presenters
 <a href="https://photos.app.goo.gl/Rgc5wcmtKzpkWraR6"><img src="/images/gx2018_logo_colour.png" width="30%" length="30%" alt="GX2018 logo"></a>
 
 Beyond the pre-event masterclasses, keynote sessions and plenaries, there were 3 breakout tracks to suit the participants' needs: Art and Science of Games, Technology for Games and Play Experience. Take a look at the below videos to learn about our speakers' takeaways for the event.
 
 ## Keynote Speakers
+
+
++---------+---------+
+| Header1 | header2 |
++---------+---------+
+| Bar     | bar     |
++---------+---------+
+
 John Hunter | Martin Hoon, NetDragon
 --- | ---
 The Nuts and Bolts of Compassion-Driven Problem Solving in the World Peace Game | Creating Immersive Environments for Learning
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=LKg06JA8S8Q" target="_blank"><img src="http://img.youtube.com/vi/LKg06JA8S8Q/0.jpg" alt="World Peace Game Model" border="2" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=6uRXxBXNgQ0" target="_blank"><img src="http://img.youtube.com/vi/6uRXxBXNgQ0/0.jpg" alt="NetDragon" border="2" /></a>
 
 ## Sharing from Speakers & Exhibitors
+
 Codomo | Thought Collective
 --- | ---
 Unlock the possibility of learning programming with Potato Pirates | The Game of Priority
