@@ -74,7 +74,7 @@ Betasight Technologies | BTS
 Use of Virtual Reality for Health Insights | Experiential Learning
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=HGoVzlveoDM" target="_blank"><img src="http://img.youtube.com/vi/HGoVzlveoDM/0.jpg" alt="Betasight Technologies" border="2" /></a> | <a href="https://youtu.be/CrrjMuRWKNg" target="_blank"><img src="http://img.youtube.com/vi/CrrjMuRWKNg/0.jpg" alt="BTS" border="2" /></a>
 
-Playware |  
---- | ---
-Use of Virtual Reality for Health Insights |   
-<a href="https://youtu.be/t3VO0NYlGoA" target="_blank"><img src="http://img.youtube.com/vi/t3VO0NYlGoA/0.jpg" alt="Playware" border="2" /></a> |   
+| Playware |          |
+| -------- | -------- |
+| Use of Virtual Reality for Health Insights |          |   
+| <a href="https://youtu.be/t3VO0NYlGoA" target="_blank"><img src="http://img.youtube.com/vi/t3VO0NYlGoA/0.jpg" alt="Playware" border="2" /></a> |          |
