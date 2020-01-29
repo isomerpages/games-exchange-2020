@@ -11,20 +11,11 @@ collection_name: GX2018
 
 Beyond the pre-event masterclasses, keynote sessions and plenaries, there were 3 breakout tracks to suit the participants' needs: Art and Science of Games, Technology for Games and Play Experience. Take a look at the below videos to learn about our speakers' takeaways for the event.
 
-table, th, td {
-  border: 0px;
-  width:100%;
-}
-
-td {
-width:50%;
-}
-
 ## Keynote Speakers
-<table>
+<table style="width:100%; border:0px">
   <tr>
-    <td><b>John Hunter</b></td>
-    <td><b>Martin Hoon, NetDragon</b></td>
+    <td style="width:50%"><b>John Hunter</b></td>
+    <td style="width:50%"><b>Martin Hoon, NetDragon</b></td>
   </tr>
   <tr>
     <td>The Nuts and Bolts of Compassion-Driven Problem Solving in the World Peace Game</td>
