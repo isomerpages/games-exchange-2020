@@ -41,6 +41,6 @@ Gametize | SelfDrvn
 The Art of Gamification | Using Emerging Technologies To Create Immersive Experiences in Non-Gaming Industries |
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=jrFIoA8_LRo" target="_blank"><img src="http://img.youtube.com/vi/jrFIoA8_LRo/0.jpg" alt="Gametize" border="2" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=WX0gZylkTcI" target="_blank"><img src="http://img.youtube.com/vi/WX0gZylkTcI/0.jpg" alt="SelfDrvn" border="2" /></a>
 
-NetDragon |  
---- | ---
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=bbHCLvJGvOQ" target="_blank"><img src="http://img.youtube.com/vi/bbHCLvJGvOQ/0.jpg" alt="NetDragon" border="2" /></a> |  
+| NetDragon |           |
+| --------- | --------- |
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=bbHCLvJGvOQ" target="_blank"><img src="http://img.youtube.com/vi/bbHCLvJGvOQ/0.jpg" alt="NetDragon" border="2" /></a> |   |
