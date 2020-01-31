@@ -5,33 +5,40 @@
 ##################################
 
 - title: About
-  url: /about/about-games-exchange-2020/
+  url: /about/01-what-is/
   sub-links:
-  - title: About Games Exchange 2020
-    url: /about/about-games-exchange-2020/
+  - title: About GX
+    url: /about/01-what-is/
+  - title: Why Attend?
+    url: /about/02-why-attend/
+  - title: Organisers
+    url: /about/03-who-we-are/
   - title: Location
-    url: /about/location/
-  - title: Why Attend
-    url: /about/why-attend/
-  - title: Who We Are
-    url: /about/who-we-are/
-  - title: Past Events
-    url: /about/past-events/
+    url: /about/04-location/
+    
 - title: Call for Speakers
   url: /call-for-speakers/
 - title: Conference
   url: /conference/agenda/
+  #sub-links:
+  #- title: Agenda
+  #  url: /conference/agenda/
+  #- title: Speakers
+  #  url: /conference/speakers
+  #- title: Exhibitors
+  #  url: /conference/exhibitors
+  #- title: Student Volunteers
+  #  url: /conference/student-volunteers
+#- title: Register
+  #url: /register/
+- title: GX 2018
+  # url: /pastevents/01-gx2018/
+  url: /gx2018/
   sub-links:
-  - title: Agenda
-    url: /conference/agenda/
-  - title: Speakers
-    url: /conference/speakers
-  - title: Exhibitors
-    url: /conference/exhibitors
-  - title: Student Volunteers
-    url: /conference/student-volunteers
-- title: Register
-  url: /register/
+  - title: GX2018 Photos
+    url: /gx2018/
+  - title: GX2018 Videos
+    url: /gx2018videos/
 - title: FAQ
   url: /faq/
 

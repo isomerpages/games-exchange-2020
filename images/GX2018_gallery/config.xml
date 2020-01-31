@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	cropToFit="false"
+	showThumbsButton="true"
+	galleryTitle="GX2018 Test Photos"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+
+>
+  <image imageURL="images/6C8A2069.jpg"
+	thumbURL="thumbs/6C8A2069.jpg"
+	linkURL="images/6C8A2069.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\shaun\OneDrive\Desktop\GX2018 Photos\GameXchange\6C8A2069.jpg">
+    <title><![CDATA[6C8A2069]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/6C8A2084.jpg"
+	thumbURL="thumbs/6C8A2084.jpg"
+	linkURL="images/6C8A2084.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\shaun\OneDrive\Desktop\GX2018 Photos\GameXchange\6C8A2084.jpg">
+    <title><![CDATA[6C8A2084]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/6C8A2085.jpg"
+	thumbURL="thumbs/6C8A2085.jpg"
+	linkURL="images/6C8A2085.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\shaun\OneDrive\Desktop\GX2018 Photos\GameXchange\6C8A2085.jpg">
+    <title><![CDATA[6C8A2085]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/6C8A2091.jpg"
+	thumbURL="thumbs/6C8A2091.jpg"
+	linkURL="images/6C8A2091.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\shaun\OneDrive\Desktop\GX2018 Photos\GameXchange\6C8A2091.jpg">
+    <title><![CDATA[6C8A2091]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/6C8A2092.jpg"
+	thumbURL="thumbs/6C8A2092.jpg"
+	linkURL="images/6C8A2092.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\shaun\OneDrive\Desktop\GX2018 Photos\GameXchange\6C8A2092.jpg">
+    <title><![CDATA[6C8A2092]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/6C8A2095.jpg"
+	thumbURL="thumbs/6C8A2095.jpg"
+	linkURL="images/6C8A2095.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\shaun\OneDrive\Desktop\GX2018 Photos\GameXchange\6C8A2095.jpg">
+    <title><![CDATA[6C8A2095]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/6C8A2096.jpg"
+	thumbURL="thumbs/6C8A2096.jpg"
+	linkURL="images/6C8A2096.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\shaun\OneDrive\Desktop\GX2018 Photos\GameXchange\6C8A2096.jpg">
+    <title><![CDATA[6C8A2096]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/6C8A2098.jpg"
+	thumbURL="thumbs/6C8A2098.jpg"
+	linkURL="images/6C8A2098.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\shaun\OneDrive\Desktop\GX2018 Photos\GameXchange\6C8A2098.jpg">
+    <title><![CDATA[6C8A2098]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/6C8A2111.jpg"
+	thumbURL="thumbs/6C8A2111.jpg"
+	linkURL="images/6C8A2111.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\shaun\OneDrive\Desktop\GX2018 Photos\GameXchange\6C8A2111.jpg">
+    <title><![CDATA[6C8A2111]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/6C8A2112.jpg"
+	thumbURL="thumbs/6C8A2112.jpg"
+	linkURL="images/6C8A2112.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\shaun\OneDrive\Desktop\GX2018 Photos\GameXchange\6C8A2112.jpg">
+    <title><![CDATA[6C8A2112]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

@@ -8,28 +8,53 @@
 favicon: /images/favicon-isomer.ico
 
 # Agency logo
-agency-logo: /images/isomer-logo.svg
+agency-logo: /images/Civil_Service_College_Singapore_logo.png
 
 # Hero Banner
-hero-title: Games Exchange 2020
-hero-subtitle: Hero subtitle
-hero-banner: /images/hero-banner.png
+hero-title: gamesXchange
+hero-subtitle: Promoting the use of Games, Simulations and Gamification within the public sector
+hero-banner: /images/GX2018_gallery/images/RJ1_5950.jpg
 
 #Call to Action Button
 button:
   - text: Learn More
-    url: /who-we-are/
+    url: /about/01-what-is/
     
 key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
+  - title: GX2018 Photo Gallery
+    description: Relive the moments of GX2018!
+    url: \gx2018\
     external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
+  - title: GX2018 Videos
+    description: Watch interviews with GX2018 presenters and participants!
+    url: \gx2018videos\
     external: true
-  - title: Page A
-    description: Page A is important too
-    url: /page-A/
+  - title: Call For Speakers
+    description: Who would you like to see at GX2020?
+    url: /call-for-speakers
 
+# Info Sections
+info-sections:
+  - section-title: 
+    section-subtitle: About GX2020
+    section-description:  Come to learn about the meaningful use of games, simulations and gaming technology for impact!
+    section-more-button: Find out more
+    external: false
+    section-more-button-url: /about/01-what-is/
+    section-image-path: /images/IMG_20191004_162752.jpg
+
+  - section-title: 
+    section-subtitle: Call For Speakers
+    section-description: Seeking game designers, speakers who are are open to share both the mistakes and the successes of what they have learned and experiment...
+    section-more-button: Keen to share
+    external: false
+    section-more-button-url: /call-for-speakers/
+    section-image-path: /images/GX2018_gallery/images/6C8A2202.jpg
+
+  - section-title: 
+    section-subtitle: GX2018
+    section-description: Check out what our thought leaders and other speakers shared at the previous conference.
+    section-more-button: Check it out
+    external: false
+    section-more-button-url: /gx2018/
+    section-image-path: /images/GX2018_gallery/images/RJ1_5549.jpg
