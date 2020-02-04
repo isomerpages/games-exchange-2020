@@ -57,7 +57,7 @@ Creating Immersive Environments for Learning | Octalysis Framework for Gamificat
 Shifting Sands | SelfDrvn
 --- | ---
 Broading Perspectives on Social Assistance Access and Support | Using Emerging Technologies To Create Immersive Experiences in Non-Gaming Industries
-<a href="https://www.youtube.com/watch?v=RldhksrwipI" target="_blank"><img src="http://img.youtube.com/vi/RldhksrwipI/0.jpg" alt="Shifting Sands" border="2" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=WX0gZylkTcI" target="_blank"><img src="http://img.youtube.com/vi/WX0gZylkTcI/0.jpg" alt="SelfDrvn" border="2" /></a>
+<a href="https://youtu.be/nyClFiJHzEI" target="_blank"><img src="http://img.youtube.com/vi/nyClFiJHzEI/0.jpg" alt="Shifting Sands" border="2" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=WX0gZylkTcI" target="_blank"><img src="http://img.youtube.com/vi/WX0gZylkTcI/0.jpg" alt="SelfDrvn" border="2" /></a>
 
 Tan Ken Jin | Thought Collective
 --- | ---
