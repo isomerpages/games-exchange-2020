@@ -77,4 +77,4 @@ Use of Virtual Reality for Health Insights | Experiential Learning
 | Playware |          |
 | -------- | -------- |
 | Use of Virtual Reality for Health Insights |          |   
-| <a href="https://youtu.be/t3VO0NYlGoA" target="_blank"><img src="http://img.youtube.com/vi/t3VO0NYlGoA/0.jpg" alt="Playware" border="2" /></a> |          |
+| <a href="https://youtu.be/t3VO0NYlGoA" target="_blank"><img src="https://img.youtube.com/vi/t3VO0NYlGoA/0.jpg" alt="Playware" border="2" /></a> |          |
