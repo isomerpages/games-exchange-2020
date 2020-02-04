@@ -23,9 +23,9 @@ Be inspired by speakers and panellists sharing great ideas and insights. Meet an
   
   <div class="photo-stacked-wrap">
   <div class="photos">
-    <img class="photo-lv-1" src="http://img.youtube.com/vi/LKg06JA8S8Q/0.jpg">
-    <img class="photo-lv-2" src="http://img.youtube.com/vi/6uRXxBXNgQ0/0.jpg">
-    <img class="photo-lv-3" src="http://img.youtube.com/vi/jrFIoA8_LRo/0.jpg">
+    <img class="photo-lv-1" src="https://img.youtube.com/vi/LKg06JA8S8Q/0.jpg">
+    <img class="photo-lv-2" src="https://img.youtube.com/vi/6uRXxBXNgQ0/0.jpg">
+    <img class="photo-lv-3" src="https://img.youtube.com/vi/jrFIoA8_LRo/0.jpg">
   </div>
   <p>Inspire!</p>
   <a class="cover" href="/gx2018videos/"></a>
