@@ -51,13 +51,13 @@ Making Health Fun: What Can We Use from Serious Games? | Gaming the System: Play
 
 NetDragon | Octalysis Group
 --- | ---
-Creating Immersive Environments for Learning | Octalysis Prime
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=bbHCLvJGvOQ" target="_blank"><img src="http://img.youtube.com/vi/bbHCLvJGvOQ/0.jpg" alt="NetDragon" border="2" /></a> | <a href="https://youtu.be/yiXpm5Ap2H4" target="_blank"><img src="http://img.youtube.com/vi/yiXpm5Ap2H4/0.jpg" alt="Octalysis Group" border="2" /></a
+Creating Immersive Environments for Learning | Octalysis Framework for Gamification
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=bbHCLvJGvOQ" target="_blank"><img src="http://img.youtube.com/vi/bbHCLvJGvOQ/0.jpg" alt="NetDragon" border="2" /></a> | <a href="https://youtu.be/yiXpm5Ap2H4" target="_blank"><img src="http://img.youtube.com/vi/yiXpm5Ap2H4/0.jpg" alt="Octalysis Group" border="2" /></a>
 
 Shifting Sands | SelfDrvn
 --- | ---
 Broading Perspectives on Social Assistance Access and Support | Using Emerging Technologies To Create Immersive Experiences in Non-Gaming Industries
-<a href="https://youtu.be/aD6VAvqG0JU" target="_blank"><img src="http://img.youtube.com/vi/aD6VAvqG0JU/0.jpg" alt="Shifting Sands" border="2" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=WX0gZylkTcI" target="_blank"><img src="http://img.youtube.com/vi/WX0gZylkTcI/0.jpg" alt="SelfDrvn" border="2" /></a>
+<a href="https://www.youtube.com/watch?v=RldhksrwipI" target="_blank"><img src="http://img.youtube.com/vi/RldhksrwipI/0.jpg" alt="Shifting Sands" border="2" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=WX0gZylkTcI" target="_blank"><img src="http://img.youtube.com/vi/WX0gZylkTcI/0.jpg" alt="SelfDrvn" border="2" /></a>
 
 Tan Ken Jin | Thought Collective
 --- | ---
